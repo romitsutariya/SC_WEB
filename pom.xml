@@ -15,9 +15,6 @@
 		<secuity.version>5.3.3.RELEASE</secuity.version>
 	</properties>
 	<dependencies>
-
-
-		<!-- https://mvnrepository.com/artifact/org.springframework/spring-webmvc -->
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-webmvc</artifactId>
